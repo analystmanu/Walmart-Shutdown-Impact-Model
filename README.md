@@ -19,7 +19,7 @@ This project answers:
 
 ---
 
-## Methodology
+## Methodologies
 1. **Data Extraction & Cleaning (ETL)**  
    - Collected weekly sales data for multiple stores and departments  
    - Cleaned missing values and standardized formats  
